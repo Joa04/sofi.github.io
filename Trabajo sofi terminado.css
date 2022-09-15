@@ -1,0 +1,20 @@
+.contenedor{
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr  ;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+
+}
+img{
+    height: 600px;
+    width: 600px;
+    border: solid 2px black;
+    position:absolute;
+    left: 340px;
+    margin-top: 10px;
+}
+body{
+    background-color: aqua;
+}
+.elemento1{
+    background-color:deeppink;
+    border: solid 2px black;
+}
